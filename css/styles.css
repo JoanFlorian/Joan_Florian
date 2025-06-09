@@ -11,7 +11,7 @@
     justify-content: center;
     background-color: #6156DB;
     color: white;
-    width:400px;
+    width:380px;
     height:450px;
     gap:35px;
     text-align: center;
@@ -23,8 +23,8 @@
     justify-content: start;
     width:400px;
     height:450px;
-    margin-left:35px;
-    padding:30px;
+    margin-left:45px;
+    padding:20px;
 }
 .form{
     display: flex;
@@ -61,7 +61,17 @@ h1{
 }
 
 .btn2{
-    margin-top:35px;
+    margin-top:45px;
+    background-color:#B856DB;
+    border: 1px solid #B856DB;
+    width:180px;
+    font-size: 14px;
+    border-radius: 20px;
+    padding:10px 0;
+    font-weight: 700;
+}
+.btn2-formulario{
+    margin-top:30px;
     background-color:#B856DB;
     border: 1px solid #B856DB;
     width:180px;
@@ -81,6 +91,6 @@ h1{
 }
 .redes-sociales-formulario{
     display:flex;
-    margin-top:1px;
+    margin-top:10px;
     gap:20px;
 }
