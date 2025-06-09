@@ -1,0 +1,86 @@
+.contenido-principal{
+    display: flex;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+}
+.sign-in{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #6156DB;
+    color: white;
+    width:350px;
+    height:400px;
+    gap:35px;
+    text-align: center;
+}
+.sign-up{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    width:350px;
+    height:400px;
+    margin-left:35px;
+    padding:15px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.redes-sociales{
+    display: flex;
+    gap:20px;
+}
+h1{
+    font-size: 30px;
+}
+.input{
+    width:300px;
+}
+.parrafo-signup{
+    color:gray;
+    font-size: 12px;
+    margin-top: 30px;
+}
+.redes-sociales{
+    margin-top:30px;
+}
+
+.btn1{
+    background-color: #B856DB;
+    border: 1px solid #B856DB;
+    width:180px;
+    font-size: 14px;
+    border-radius: 20px;
+    padding:10px 0;
+    font-weight: 700;
+}
+
+.btn2{
+    margin-top:35px;
+    background-color:#B856DB;
+    border: 1px solid #B856DB;
+    width:180px;
+    font-size: 14px;
+    border-radius: 20px;
+    padding:10px 0;
+    font-weight: 700;
+}
+.h1-formulario{
+    font-size: 30px;
+}
+
+.parrafo-signup-formulario{
+    color:gray;
+    font-size: 12px;
+    margin-top: 15px;
+}
+.redes-sociales-formulario{
+    display:flex;
+    margin-top:1px;
+    gap:20px;
+}
